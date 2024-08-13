@@ -1,1 +1,1 @@
-# EFA-and-CFA-with-Synthetic-Data
+# Factor-Analysis-with-Synthetic-Data
