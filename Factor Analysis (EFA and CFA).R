@@ -8,7 +8,7 @@
 ########################
 # This R script provides simple code for both EFA and CFA ###
 # The code for EFA uses the psych package and CFA uses lavaan ###
-# The simple code is then followed with an example using a synthetic dataset labelled the efa_data dataset ###
+# The simple code is then followed with an example using a synthetic dataset labelled the efa_data ###
 ########################
 
 ########################
